@@ -33,7 +33,7 @@ const Footer = () => {
             title: "CONTACT",
             links: [
                 { text: "+91 95458 54215", path: '/', icon: MailIcon },
-                { text: "citycard@gmail.com", path: '/', icon: PhoneIcon },
+                { text: "citycart@gmail.com", path: '/', icon: PhoneIcon },
                 { text: "132 Gola Road, Patna", path: '/', icon: MapPinIcon }
             ]
         }
